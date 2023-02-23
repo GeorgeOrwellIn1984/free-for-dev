@@ -1,6 +1,6 @@
 # free-for.dev
 
-it changes for commit number 2 in branch 2
+it changes for commit number 3 in branch 2
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
